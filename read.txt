@@ -1,0 +1,9 @@
+登录豆瓣的脚本 
+
+
+将 form中email 以及password 换成你豆瓣的登录邮箱以及密码
+
+运行在 python3 下面  因此需要python3 douban.py
+
+
+然后 就可以在该路径下生成一个douban.html 打开看就能知道你登陆成功没有
